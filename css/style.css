@@ -29,6 +29,12 @@ body{
     padding-top: 75px !important;
 }
 
+.foto{
+    height: 65% !important;
+    
+}
+
+
 .nav-link.active{
     color: #d8e51b !important;
     font-weight: bold !important;
@@ -41,7 +47,7 @@ body{
 
 /* novedades */
 #novedades{
-    background-color:#000000;
+    background-color:#F2BDE4;
 }
 
 #novedades .titulo{
